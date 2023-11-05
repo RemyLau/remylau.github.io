@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Renming Liu"
   avatar           : "profile.png"
   bio              : "Hi! I'm a Ph.D. student in the Dept. of CMSE at MSU. I work with biological network and (single cell) omics data using geometric deep learning methods."
   location         : "United States"
