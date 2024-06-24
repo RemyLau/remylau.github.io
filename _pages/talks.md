@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+- [2024.02][Talk] Professor Trey Ideker's lab at University of California San Diego
+- [2024.02][Talk] Professor Jian Ma's lab at Carnegie Mellon University
+- [2024.01][Talk] Learning on Graphs (LoG) local meetup at Mid-North US
 - [2023.03][Poster] CSHL-NetBio'23\
   A Python Toolkit for Generating Benchmarking Datasets for Machine Learning with Biological Networks
 - [2022.12][Talk] ISCB-Rokcy'22\
