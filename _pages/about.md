@@ -20,14 +20,15 @@ Check out my [CV](files/RenmingLiu_cv.pdf) for more info.
 News
 ====
 
-[2024-06] I'm honored to be joining Professor Jian Ma's talented group at CMU
-as a Postdoc Fellow!
+[2024-06] I'm honored to be joining
+[Professor Jian Ma](https://www.cs.cmu.edu/~jianma/)'s talented group at CMU as
+a Postdoc!\
 [2024-05] My Ph.D.
 [thesis](https://www.proquest.com/dissertations-theses/network-biology-powered-graph-deep-learning/docview/3057018674/se-2)
-has been published on ProQuest!
+has been published on ProQuest!\
 [2024-05] I have defended and obtained my Ph.D. degree in
 [CMSE](https://cmse.msu.edu/) at MSU! I will miss my time in the
-[Krishnan Lab](https://www.thekrishnanlab.org/).\
+[Krishnan Lab](https://www.thekrishnanlab.org/).
 
 Recent work
 ===========
