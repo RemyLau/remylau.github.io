@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Renming Liu"
   avatar           : "profile.png"
-  bio              : "Hi! I'm a Ph.D. student in the Dept. of CMSE at MSU. I work with biological network and (single cell) omics data using geometric deep learning methods."
+  bio              : ""
   location         : "United States"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Liu+R&cauthor_id=36688699"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=by5L-BcAAAAJ"
-  email            : "liurenmi@msu.edu"
+  email            : "renmingl@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
