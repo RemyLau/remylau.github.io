@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Post-doctoral Fellow in
+Hi there! I am a Postdoctoral Fellow in
 [Professor Jian Ma](https://www.cs.cmu.edu/~jianma/)'s group in the
 [Ray and Stephanie Lane Computational Biology Department](https://cbd.cmu.edu/)
 at Carnegie Mellon University. I currently work on developing computational
